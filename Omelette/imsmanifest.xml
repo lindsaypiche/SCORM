@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6MV7F6xSM0B_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">The Breakfast Club - How to Make an Omelette</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="The_Breakfast_Club_-_How_to_Make_an_Omelette_ORG">
+    <organization identifier="The_Breakfast_Club_-_How_to_Make_an_Omelette_ORG">
+      <title>The Breakfast Club - How to Make an Omelette</title>
+      <item identifier="Roles_Course_SCO" isvisible="true" identifierref="__6MV7F6xSM0B_course_id_RES">
+        <title>The Breakfast Club - How to Make an Omelette</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6MV7F6xSM0B_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="mobile/5pnXywxdOSC_DX138_DY138_CX103_CY101.png" />
+      <file href="mobile/5h9aKlRA8VY_DX154_DY154_CX115_CY101.png" />
+      <file href="mobile/5jNmbYP7SDH_DX140_DY140_CX102_CY104.png" />
+      <file href="mobile/60K3rJszjez_DX140_DY140_CX78_CY105.png" />
+      <file href="mobile/6HAevXUI2GF_B-10_R2F3336_DX200_DY200_CX150_CY150.png" />
+      <file href="mobile/6HAevXUI2GF_R2F3336_DX200_DY200_CX150_CY150.png" />
+      <file href="story_content/6cQnPjD4IwD_44100_160_0.mp3" />
+      <file href="mobile/62rExF3sVNK_DX2194_DY2194_CX1645_CY628.png" />
+      <file href="mobile/6gZfI7S1Mc2_DX2194_DY2194_CX1645_CY924.png" />
+      <file href="mobile/5yPsg9QdgL6_DX176_DY176_CX132_CY131.png" />
+      <file href="mobile/6LiUCcF4crR_DX176_DY176_CX132_CY131.png" />
+      <file href="mobile/5q09st6Hp4x_DX176_DY176_CX132_CY131.png" />
+      <file href="mobile/5t07gBgAmaF_DX176_DY176_CX132_CY131.png" />
+      <file href="mobile/6SlRsn9DgU2_DX748_DY748_CX550_CY559.png" />
+      <file href="mobile/6HAevXUI2GF_X_B-10_R2F3336_DX200_DY200_CX150_CY150.png" />
+      <file href="mobile/6HAevXUI2GF_X_R2F3336_DX200_DY200_CX150_CY150.png" />
+      <file href="story_content/6PaMGKizieh_44100_160_0.mp3" />
+      <file href="mobile/6GRLBia0gKv_DX1234_DY1234_CX924_CY334.png" />
+      <file href="story_content/6BL1PTCkeFx_44100_160_0.mp3" />
+      <file href="mobile/6PT47TznVeH_DX2194_DY2194_CX1645_CY191.png" />
+      <file href="mobile/6bVBP6za9X8_DX478_DY478_CX358_CY323.png" />
+      <file href="mobile/60CqqyJiNTw_DX432_DY432_CX190_CY323.png" />
+      <file href="mobile/6IzYq3n42jo_DX468_DY468_CX351_CY323.png" />
+      <file href="mobile/5Zn0PdS6d3x_DX432_DY432_CX190_CY323.png" />
+      <file href="mobile/5pCWkAZHIcW_DX534_DY534_CX400_CY323.png" />
+      <file href="story_content/6QlmOwryxkh_44100_160_0.mp3" />
+      <file href="mobile/6C9UyVGeuN8_DX304_DY304_CX178_CY228.png" />
+      <file href="mobile/6UFXMF7kmsj_DX304_DY304_CX178_CY227.png" />
+      <file href="mobile/5eIMOYBPTPh_DX432_DY432_CX260_CY324.png" />
+      <file href="mobile/6hCSCYYnFet_DX432_DY432_CX165_CY324.png" />
+      <file href="mobile/6jbxCa80mAT_DX432_DY432_CX163_CY324.png" />
+      <file href="story_content/6r8I62nDcNS_44100_160_0.mp3" />
+      <file href="mobile/6rKEkcF6tfU_DX936_DY936_CX702_CY647.png" />
+      <file href="mobile/6UE9p9Drmzg_DX604_DY604_CX265_CY453.png" />
+      <file href="story_content/6OF3ZToT48X_44100_160_0.mp3" />
+      <file href="story_content/5mxuRkJLgmY_44100_160_0.mp3" />
+      <file href="mobile/6FFtcKP8rUp_DX432_DY432_CX223_CY322.png" />
+      <file href="mobile/6iHqntHMkvi_B-10_R2F3336_DX200_DY200_CX150_CY150.png" />
+      <file href="mobile/6iHqntHMkvi_R2F3336_DX200_DY200_CX150_CY150.png" />
+      <file href="story_content/6H60R4Sfw03_44100_160_0.mp3" />
+      <file href="story_content/6YU3E5BDjvx_44100_160_0.mp3" />
+      <file href="mobile/61JlqMKP3YX_B10_R1FA182_DX400_DY400_CX291_CY300.png" />
+      <file href="story_content/5kFWUiCBc9C_44100_160_0.mp3" />
+      <file href="mobile/6BS0LDIUunm_B10_RB92534_DX400_DY400_CX291_CY300.png" />
+      <file href="story_content/5XGjXayNeYQ_44100_160_0.mp3" />
+      <file href="mobile/5fCUaf8fpCg_B10_R70A13A_DX400_DY400_CX291_CY300.png" />
+      <file href="story_content/6dv246oMsXs_44100_160_0.mp3" />
+      <file href="story_content/6Q9LIXVByoY_44100_160_0.mp3" />
+      <file href="story_content/5ww6ZZ3aUM5_44100_160_0.mp3" />
+      <file href="story_content/6kQU0QIodHf_44100_160_0.mp3" />
+      <file href="mobile/6VGp0rDK4Cn_DX604_DY604_CX320_CY453.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6qPmK63w8xS.png" />
+      <file href="mobile/Slide6mEkS1oPSXG.jpg" />
+      <file href="mobile/Shape5wLWcaMGHnn.png" />
+      <file href="mobile/Shape5sZlhIUpAlV.png" />
+      <file href="mobile/Shape6c7yGTxEOku.png" />
+      <file href="mobile/Shape6EKpLOTqo99.png" />
+      <file href="mobile/Shape6fQDAIFgvQL.png" />
+      <file href="mobile/Shape6H0SlNz2eNE.png" />
+      <file href="mobile/Shape5nnZi277Vki.png" />
+      <file href="mobile/Shape6Yvdzp8gzkm.png" />
+      <file href="mobile/Shape6quhJfYLr9a.png" />
+      <file href="mobile/Shape5j9u4NHTKyc.png" />
+      <file href="mobile/Shape6dBXiD9PuhI.png" />
+      <file href="mobile/Shape6FrkdyBMf8v.png" />
+      <file href="mobile/Shape5prcAYrk5Ab.png" />
+      <file href="mobile/Shape5ZIpHFjzWxo.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jPEvOTa9YE.js" />
+      <file href="html5/data/js/5kR5q129rKt.js" />
+      <file href="html5/data/js/5pn5EiPP4dt.js" />
+      <file href="html5/data/js/5up35r7XgH3.js" />
+      <file href="html5/data/js/5VfvwoFuQ9g.js" />
+      <file href="html5/data/js/6hyERIheBNp.js" />
+      <file href="html5/data/js/6mHMNnCLtR0.js" />
+      <file href="html5/data/js/6nXh1Rrc6R0.js" />
+      <file href="html5/data/js/6oj7GROugkp.js" />
+      <file href="html5/data/js/6XRNTioYb5m.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
